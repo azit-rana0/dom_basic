@@ -31,7 +31,7 @@ All of the styling is applied directly through JavaScript, without the need for 
 1. Clone the repository from GitHub:
 
     ```bash
-   git clone https://github.com/azit-rana0/boat-style
+   git clone https://github.com/azit-rana0/dom_basic
 
    ```
 
@@ -50,6 +50,6 @@ All of the styling is applied directly through JavaScript, without the need for 
 
 
 ## Hosted Version
-You can view the live version of the project [Hare](https://azit-rana0.github.io/boat-style/)
+You can view the live version of the project [Hare](https://azit-rana0.github.io/dom_basic/)
 
 Click on the link to see the project in action, with the div element styled entirely through JavaScript DOM manipulation.
